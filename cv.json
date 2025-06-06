@@ -1,0 +1,101 @@
+{
+  "personal": {
+    "name": "Almaz Kunpeissov",
+    "title": "Software Engineer",
+    "specialization": "Python, Django, Backend",
+    "email": "hello@akun.dev",
+    "linkedin": "https://linkedin.com/in/almaz-kunpeissov",
+    "github": "https://github.com/almazkun",
+    "nationality": "Republic of Kazakhstan",
+    "current_residence": "Melbourne, Australia"
+  },
+  "summary": "Senior Python Software Engineer with 7+ years of expertise in backend development, specializing in REST API integration, cloud technologies, and scalable software solutions. Skilled in Python/Django, JavaScript, and AWS, with a proven ability to deliver innovative and efficient systems. Strong advocate of clean code, best practices, and collaboration.",
+  "technical_competencies": {
+    "programming_languages": ["Python", "JavaScript"],
+    "frameworks_libraries": ["Django", "Django REST Framework", "React", "Next.js", "Node.js"],
+    "databases": ["PostgreSQL", "MySQL", "Amazon DynamoDB"],
+    "cloud_devops": ["AWS (EC2, Cognito, Lambda, S3, RDS)", "Docker", "Linux", "Git", "CI/CD"],
+    "architecture": ["Microservices", "Event-Driven Architecture", "RESTful APIs"],
+    "methodologies": ["Agile (Scrum)", "Test-Driven Development (TDD)"]
+  },
+  "experience": [
+    {
+      "company": "Tetra Signum Co.,Ltd",
+      "website": "https://tetrasignum.kr/",
+      "location": "Seoul, South Korea",
+      "position": "Software Engineer",
+      "period": "Nov 2022 – Present",
+      "responsibilities": [
+        "Led development of enterprise solutions using Python/Django backend and React frontend",
+        "Developed LMS platform with integrated video CMS and SSO authentication",
+        "Designed and built calendar and appointment scheduling system",
+        "Managed AWS infrastructure and Docker containerization for all services",
+        "Established CI/CD pipelines for automated testing and deployment",
+        "Optimized database queries, infrastructure billing, logging, and monitoring systems",
+        "Implemented role-based access control and applied security best practices",
+        "Directed technical architecture decisions and managed project roadmaps",
+        "Mentored junior developers through code reviews and pair programming",
+        "Introduced Agile sprints and translated stakeholder requirements into clear tasks"
+      ]
+    },
+    {
+      "company": "ailys Co., Ltd.",
+      "website": "https://ailys.ai",
+      "location": "Seoul, South Korea",
+      "position": "Software Engineer",
+      "period": "July 2021 – Oct 2022",
+      "responsibilities": [
+        "Developed Python/Celery backend components for \"DAVinCI LABS\", an Auto-ML/AI analytics platform",
+        "Designed and optimized REST API services, improving data processing efficiency",
+        "Collaborated with cross-functional teams to integrate machine learning algorithms into production systems"
+      ]
+    },
+    {
+      "company": "Shipper Space LLC",
+      "website": "https://shipper.kz",
+      "location": "Almaty, Kazakhstan",
+      "position": "Software Engineer",
+      "period": "May 2019 – July 2021",
+      "responsibilities": [
+        "Development of web-based React application to automate parcel forwarding service",
+        "Developed RESTful API endpoints, including integration with multiple third-party services"
+      ]
+    },
+    {
+      "company": "Law Company Financial Advocate LLP",
+      "website": "https://finlaw.kz",
+      "location": "Almaty, Kazakhstan",
+      "position": "Software Engineer",
+      "period": "December 2017 - May 2019",
+      "responsibilities": [
+        "Managed full-cycle design, development, and maintenance of corporate website",
+        "Conducted project planning and maintained project documentation",
+        "Administered hosting, email, analytics, and internal documentation systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Information Technology",
+      "institution": "Torrens University",
+      "location": "Australia",
+      "period": "2024 – 2025"
+    },
+    {
+      "degree": "Bachelor's Degree",
+      "field": "Materials Science and New Materials Technology",
+      "institution": "Kazakh National University",
+      "location": "Kazakhstan",
+      "period": "2005 – 2009"
+    }
+  ],
+  "additional_information": {
+    "languages": ["English (fluent)", "Russian (fluent)"],
+    "soft_skills": [
+      "Strong problem-solving abilities",
+      "Excellent communication and collaboration skills",
+      "Keen attention to detail",
+      "Adaptability to new challenges"
+    ]
+  }
+}
